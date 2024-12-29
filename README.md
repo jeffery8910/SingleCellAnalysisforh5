@@ -1,4 +1,5 @@
-# SingleCellAnalysisforh5
+# Single Brain Cell Analysis in h5 format
+------------------------------------------------
 # Brain Cell Type Analysis with GPU Acceleration
 
 This Python script performs GPU-accelerated analysis of brain cell types using single-cell RNA sequencing data.
@@ -10,9 +11,8 @@ This Python script performs GPU-accelerated analysis of brain cell types using s
 - Minimum 16GB RAM recommended
 
 ### Software Requirements
-
 bash
-Create a new conda environment
+**Create a new conda environment** - be crucial one
 conda create -n gpu-env python=3.10
 Activate the environment
 conda activate gpu-env
